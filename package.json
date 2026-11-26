@@ -1,1 +1,1 @@
-
+{"name":"crusader-moderation","version":"1.0.0","description":"Crusader Discord moderation bot","main":"index.js","scripts":{"start":"node index.js"},"engines":{"node":">=20"},"dependencies":{"discord.js":"^14.19.3","better-sqlite3":"^11.10.0","dotenv":"^16.4.7"}}
